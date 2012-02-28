@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-attributes-api.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-chain-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar" sourcepath="lib/src/commons-collections-3.2.1-src.zip"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.6.0.v20100301.jar"/>
+	<classpathentry kind="lib" path="lib/commons-vfs-1.0.jar" sourcepath="lib/src/commons-vfs-1.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.p2.jarprocessor_1.0.200.v20100304.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/com.mysql.jdbc-5.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/edu.emory.mathcs.backport-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/edu.oswego.cs.dl.util.concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.transaction-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/net.sf.cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/net.sf.ehcache-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/net.sf.jsr107cache-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.el-6.0.20.jar"/>
+	<classpathentry kind="lib" path="lib/org.aspectj.runtime-1.6.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="lib/org.hibernate.annotations-3.3.1.ga.jar"/>
+	<classpathentry kind="lib" path="lib/org.hibernate.annotations.common-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="lib/org.hibernate.ejb-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="lib/org.hibernate.validator-4.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/org.jboss.util-2.0.4.GA.jar"/>
+	<classpathentry kind="lib" path="lib/org.joda.time-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.objectweb.asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.objectweb.asm.attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.aop-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.asm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.aspects-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.expression-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.jdbc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.js-2.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.orm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/guava-r04.jar" sourcepath="lib/src/guava-src-r04.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

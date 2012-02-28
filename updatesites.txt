@@ -1,0 +1,12 @@
+http://download.eclipse.org/webtools/updates/
+http://download.eclipse.org/tools/mylyn/update/e3.4
+http://download.eclipse.org/tools/mylyn/update/extras
+http://download.eclipse.org/tools/mylyn/update/incubator
+http://download.eclipse.org/datatools/updates
+http://download.eclipse.org/modeling/emf/updates/
+http://download.eclipse.org/modeling/emft/updates/
+http://download.eclipse.org/modeling/mdt/updates/
+http://download.eclipse.org/modeling/m2m/updates/
+http://download.eclipse.org/modeling/m2t/updates/
+http://download.eclipse.org/modeling/gmf/updates/
+http://download.eclipse.org/tools/gef/updates/
